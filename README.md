@@ -5,11 +5,11 @@
 ---
 
 ## 目录
-1. [中文版（Chinese Version）](#中文版-chinese-version)
-2. [英文版（English Version）](#英文版-english-version)
+1. [中文版（Chinese Version）](#cn)
+2. [英文版（English Version）](#en)
 
 ---
-
+<a id="cn"></a>
 ## 中文版（Chinese Version）
 # Steam 游戏时间统计工具
 一款轻量化的 Steam 游戏运行时间监控工具，基于 Python + PySide6 开发，支持托盘驻留、自动扫描游戏、进程监控、时长统计和美观的图形界面展示，无需复杂配置，打包后可直接运行。
@@ -116,7 +116,7 @@ A4：程序基于游戏进程启停统计，若游戏进程名称与 Steam 清�
 本项目为开源学习项目，仅供个人非商业使用，禁止用于商业盈利目的。
 
 ---
-
+<a id="en"></a>
 ## 英文版（English Version）
 # Steam Game Playtime Tracker
 A lightweight tool for monitoring and statistics of Steam game playtime, developed based on Python + PySide6. It supports system tray residency, automatic game scanning, process monitoring, playtime statistics, and beautiful graphical interface display. No complex configuration is required, and it can be run directly after packaging.
